@@ -1,16 +1,23 @@
-## Hi there 👋
+# João Victor Pires
 
-<!--
-**kagenash/kagenash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst & IT Automation specialist with a background in Data Science and Cybersecurity.
+Currently working at RD Saúde (Raia Drogasil), building data pipelines, automating operational processes and maintaining PostgreSQL databases.
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Shell & Automation** — Bash, PowerShell, SSH, deploy pipelines
+- **Databases** — PostgreSQL (maintenance, recovery, optimization), SQL, MySQL
+- **Monitoring** — Zabbix, Power BI, KPI dashboards
+- **Data** — ETL, data wrangling, pipeline development, ServiceNow integration
+- **Security & Infra** — Network security, kernel tuning, Linux systems
+
+## Projects
+
+| Repository | Description |
+|---|---|
+| [automation-scripts](https://github.com/kagenash/automation-scripts) | Bash & PowerShell scripts for PostgreSQL recovery, Linux optimization, Windows maintenance and SSH setup |
+
+## Education
+
+- **Data Science** — FIAP, São Paulo
+- **Systems Analysis & Development** — FIAP, São Paulo
